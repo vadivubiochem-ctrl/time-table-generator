@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 11pt;
+  }
+  
+  header, nav, button, select, .no-print {
+    display: none !important;
+  }
+  
+  .print-only {
+    display: block !important;
+  }
+
+  table {
+    page-break-inside: avoid;
+  }
+}

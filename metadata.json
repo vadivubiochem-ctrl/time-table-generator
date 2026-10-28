@@ -1,0 +1,6 @@
+{
+  "name": "HSS Timetable Generator (11th & 12th)",
+  "description": "Comprehensive academic timetable generator and period allotment system for Higher Secondary School classes (11A, 12A, 11B, 12B, 11D, 12D, 11C, 12C, 11E, 12E), PG Teachers, and Vocational Agriculture with automated clash-free scheduling and manual editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
